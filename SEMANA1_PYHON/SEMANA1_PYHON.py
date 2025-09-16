@@ -30,6 +30,23 @@ def ejer4():
     print("Al cubo: ", math.pow(num,3))
     print("Raiz 3: ", num**(1/3))
 
- 
 
-ejer4()
+def ejer5():
+    num = float(input("Ingrese un número: "))
+
+    print("Resto:", int(num) % 2)
+    print("División:", num / 3)
+
+
+def ejer6():
+    segundos = int(input("Ingrese los segundos: "))
+
+    horas = segundos // 3600
+    minutos = (segundos % 3600) // 60
+    segundosrest = segundos % 60
+
+    print("Horas:", horas)
+    print("Minutos:", minutos)
+    print("Segundos:", segundosrest)
+
+ejer6()
