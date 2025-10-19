@@ -1,0 +1,11 @@
+C:\Users\PC\Desktop\FA\FA_2025-ll-PRACTICA-8450\Semana9_ejer1_is\bin\Debug\Semana9_ejer1_is.exe.config
+C:\Users\PC\Desktop\FA\FA_2025-ll-PRACTICA-8450\Semana9_ejer1_is\bin\Debug\Semana9_ejer1_is.exe
+C:\Users\PC\Desktop\FA\FA_2025-ll-PRACTICA-8450\Semana9_ejer1_is\bin\Debug\Semana9_ejer1_is.pdb
+C:\Users\PC\Desktop\FA\FA_2025-ll-PRACTICA-8450\Semana9_ejer1_is\bin\Debug\OperacionesAritmeticas.dll
+C:\Users\PC\Desktop\FA\FA_2025-ll-PRACTICA-8450\Semana9_ejer1_is\bin\Debug\OperacionesAritmeticas.pdb
+C:\Users\PC\Desktop\FA\FA_2025-ll-PRACTICA-8450\Semana9_ejer1_is\obj\Debug\Semana9_ejer1_is.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\FA\FA_2025-ll-PRACTICA-8450\Semana9_ejer1_is\obj\Debug\Semana9_ejer1_is.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\FA\FA_2025-ll-PRACTICA-8450\Semana9_ejer1_is\obj\Debug\Semana9_.4F56A389.Up2Date
+C:\Users\PC\Desktop\FA\FA_2025-ll-PRACTICA-8450\Semana9_ejer1_is\obj\Debug\Semana9_ejer1_is.exe
+C:\Users\PC\Desktop\FA\FA_2025-ll-PRACTICA-8450\Semana9_ejer1_is\obj\Debug\Semana9_ejer1_is.pdb
+C:\Users\PC\Desktop\FA\FA_2025-ll-PRACTICA-8450\Semana9_ejer1_is\obj\Debug\Semana9_ejer1_is.exe.config

@@ -78,7 +78,7 @@ namespace Semana9_ejer1_is
         }
         private static int IngresaNumero()
         {
-            Console.Write("Ingrese el primer número: ");
+            Console.Write("Ingrese el número: ");
             int valor = Convert.ToInt32(Console.ReadLine());
             return valor;
         }
