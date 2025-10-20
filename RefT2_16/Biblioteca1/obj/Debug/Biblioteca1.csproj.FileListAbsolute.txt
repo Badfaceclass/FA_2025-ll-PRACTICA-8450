@@ -1,0 +1,6 @@
+C:\Users\PC\Desktop\FA\FA_2025-ll-PRACTICA-8450\RefT2_16\Biblioteca1\bin\Debug\Biblioteca1.dll
+C:\Users\PC\Desktop\FA\FA_2025-ll-PRACTICA-8450\RefT2_16\Biblioteca1\bin\Debug\Biblioteca1.pdb
+C:\Users\PC\Desktop\FA\FA_2025-ll-PRACTICA-8450\RefT2_16\Biblioteca1\obj\Debug\Biblioteca1.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\FA\FA_2025-ll-PRACTICA-8450\RefT2_16\Biblioteca1\obj\Debug\Biblioteca1.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\FA\FA_2025-ll-PRACTICA-8450\RefT2_16\Biblioteca1\obj\Debug\Biblioteca1.dll
+C:\Users\PC\Desktop\FA\FA_2025-ll-PRACTICA-8450\RefT2_16\Biblioteca1\obj\Debug\Biblioteca1.pdb

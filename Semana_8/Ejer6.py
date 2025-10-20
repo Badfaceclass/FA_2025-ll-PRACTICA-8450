@@ -11,7 +11,7 @@ while True:
 
     print("\nBienvenido al sistema de conversion de modena")
     print("1. Dolares")
-    print("2.Euros")
+    print("2. Euros")
 
     opc = int(input("Ingrese una opcion: "))
 

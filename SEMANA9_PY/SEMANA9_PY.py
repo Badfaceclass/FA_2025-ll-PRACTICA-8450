@@ -1,7 +1,11 @@
 from Triangulo import Triangulo
 from Cuadrado import Cuadrado
+from Rectangulo import Rectangulo
+from Trapecio import Trapecio
 c = Cuadrado()
 t = Triangulo()
+r = Rectangulo ()
+tr = Trapecio()
 
 def menu1()->None:
     print("Bienvenidos a calculos de areas y perimetros\n")
@@ -28,7 +32,7 @@ while True:
         menu1()
         opcion = int(input("Ingrese opcion: "))
 
-        if opcion in range(0,4): 
+        if opcion in range(0,5): 
             break
         else: 
             print("Error. Opcion no valida. \n")
@@ -55,12 +59,30 @@ while True:
             print()
 
         case 3:
+            opc = menu2()
+            match opc:
+                case 1:
+                    print(f"Area: {r.area()}")
+                case 2:
+                    print(f"Perimetro: {r.perimetro()}")
             print()
+
         case 4:
+
+            opc = menu2()
+            BaseMayor = int(input("\nIngrese base mayor: "))
+            BaseMenor = int(input("Ingrese base menor: "))
+            Altura = int(input("Ingrese la altura: "))
+            match opc:
+                case 1:
+                    print(f"Area: {tr.area(BaseMayor, BaseMenor,Altura)}")
+                case 2:
+                    print(f"Perimetro: {tr.perimetro(BaseMayor, BaseMenor,Altura)}")
+
             print()
 
     while True:
-        conti= input("\n¿Desea continuar? (s/n): ")
+        conti= input("\n¿Desea continuar? (s/n): ").lower()
         if conti in ("s", "n"):
             break
         else:

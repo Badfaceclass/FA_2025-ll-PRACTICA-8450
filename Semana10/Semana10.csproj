@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B43A5987-5CA8-43BE-B824-8C6764274E7B}</ProjectGuid>
+    <ProjectGuid>{8682EE93-08D9-40A0-9668-7FCDEFE26864}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Semana9_isaias</RootNamespace>
-    <AssemblyName>Semana9_isaias</AssemblyName>
+    <RootNamespace>Semana10</RootNamespace>
+    <AssemblyName>Semana10</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Cajero.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
