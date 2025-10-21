@@ -32,17 +32,34 @@ class Cajero:
         return Cajero.saldo
     
     def Depositar(self, monto: float) -> None:
-        if monto <= 0:
-            print("No se puede depositar 0 o un valor negativo.")
-        else:
-            Cajero.saldo += monto
-            print(f"Deposito exitoso. Saldo actual: {Cajero.saldo}")
+        while(True):
+            if monto < 0:
+                print("\nNo se puede depositar 0 o un valor negativo.")
+                monto = float(input("Ingrese nuevamente el monto a depositar: "))
+
+            elif monto == 0:
+                print("Deposito cancelado.")
+                break
+            else:
+                Cajero.saldo += monto
+                print(f"Deposito exitoso. Saldo actual: {Cajero.saldo}")
+                break
 
     def Retirar(self, monto: float) -> None:
-        if monto <= 0:
-            print("No se puede retirar 0 o un valor negativo.")
-        elif monto > Cajero.saldo:
-            print("Saldo insuficiente.")
-        else:
-            Cajero.saldo -= monto
-            print(f"Retiro exitoso. Saldo actual: {Cajero.saldo}")
+        while(True):
+            if monto < 0:
+                print("\nNo se puede retirar 0 o un valor negativo.")
+                monto = float(input("Ingrese nuevamente el monto a retirar:"))
+
+            elif monto == 0:
+                print("Retiro cancelado.")
+                break
+
+            elif monto > Cajero.saldo:
+                print("Saldo insuficiente.")
+                monto = float(input("Ingrese nuevamente el monto a retirar: "))
+
+            else:
+                Cajero.saldo -= monto
+                print(f"Retiro exitoso. Saldo actual: {Cajero.saldo}")
+                break
