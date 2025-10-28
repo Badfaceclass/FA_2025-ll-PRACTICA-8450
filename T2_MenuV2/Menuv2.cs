@@ -16,7 +16,7 @@ namespace Pruebas_menu
                 Console.BackgroundColor = ConsoleColor.White;
                 Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine("Elija la opcion moviendo las flecha y presionando enter.");
-                Console.ResetColor();
+
                 for (int i = 1; i <= 4; i++)
                 {
                     if (opc == i)

@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T2_MenuV2", "T2_MenuV2\T2_M
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "T2_MenuV1", "T2_MenuV1\T2_MenuV1.csproj", "{4AFEA15F-FF9C-4278-8B12-57AA5FA70B73}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Semana_11C#", "Semana_11C#\Semana_11C#.csproj", "{1DEB8E7E-3452-4293-B537-17105207D9C6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -103,6 +105,10 @@ Global
 		{4AFEA15F-FF9C-4278-8B12-57AA5FA70B73}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4AFEA15F-FF9C-4278-8B12-57AA5FA70B73}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4AFEA15F-FF9C-4278-8B12-57AA5FA70B73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DEB8E7E-3452-4293-B537-17105207D9C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DEB8E7E-3452-4293-B537-17105207D9C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DEB8E7E-3452-4293-B537-17105207D9C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DEB8E7E-3452-4293-B537-17105207D9C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

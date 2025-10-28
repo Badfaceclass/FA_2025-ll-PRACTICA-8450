@@ -11,3 +11,16 @@ C:\Users\PC\Desktop\FUNDAMENTO DE ALGORITMOS\FA_2025-ll-PRACTICA-8450\T2_MenuV2\
 C:\Users\PC\Desktop\FUNDAMENTO DE ALGORITMOS\FA_2025-ll-PRACTICA-8450\T2_MenuV2\obj\Debug\T2_MenuV2.csproj.Up2Date
 C:\Users\PC\Desktop\FUNDAMENTO DE ALGORITMOS\FA_2025-ll-PRACTICA-8450\T2_MenuV2\obj\Debug\Pruebas menu.exe
 C:\Users\PC\Desktop\FUNDAMENTO DE ALGORITMOS\FA_2025-ll-PRACTICA-8450\T2_MenuV2\obj\Debug\Pruebas menu.pdb
+C:\Users\UPN\Desktop\FA\FA_2025-ll-PRACTICA-8450\T2_MenuV2\bin\Debug\Pruebas menu.exe.config
+C:\Users\UPN\Desktop\FA\FA_2025-ll-PRACTICA-8450\T2_MenuV2\bin\Debug\Pruebas menu.exe
+C:\Users\UPN\Desktop\FA\FA_2025-ll-PRACTICA-8450\T2_MenuV2\bin\Debug\Pruebas menu.pdb
+C:\Users\UPN\Desktop\FA\FA_2025-ll-PRACTICA-8450\T2_MenuV2\bin\Debug\T2_Carga.dll
+C:\Users\UPN\Desktop\FA\FA_2025-ll-PRACTICA-8450\T2_MenuV2\bin\Debug\T2_Equipaje_Encomienda.dll
+C:\Users\UPN\Desktop\FA\FA_2025-ll-PRACTICA-8450\T2_MenuV2\bin\Debug\T2_Carga.pdb
+C:\Users\UPN\Desktop\FA\FA_2025-ll-PRACTICA-8450\T2_MenuV2\bin\Debug\T2_Equipaje_Encomienda.pdb
+C:\Users\UPN\Desktop\FA\FA_2025-ll-PRACTICA-8450\T2_MenuV2\obj\Debug\T2_MenuV2.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\FA\FA_2025-ll-PRACTICA-8450\T2_MenuV2\obj\Debug\Pruebas menu.exe.config
+C:\Users\UPN\Desktop\FA\FA_2025-ll-PRACTICA-8450\T2_MenuV2\obj\Debug\T2_MenuV2.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\FA\FA_2025-ll-PRACTICA-8450\T2_MenuV2\obj\Debug\T2_MenuV2.csproj.Up2Date
+C:\Users\UPN\Desktop\FA\FA_2025-ll-PRACTICA-8450\T2_MenuV2\obj\Debug\Pruebas menu.exe
+C:\Users\UPN\Desktop\FA\FA_2025-ll-PRACTICA-8450\T2_MenuV2\obj\Debug\Pruebas menu.pdb

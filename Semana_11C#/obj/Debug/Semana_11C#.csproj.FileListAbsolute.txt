@@ -1,0 +1,16 @@
+C:\Users\UPN\Desktop\Semana_11C#\Semana_11C#\obj\Debug\Semana_11C#.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\Semana_11C#\Semana_11C#\obj\Debug\Semana_11C#.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\Semana_11C#\Semana_11C#\bin\Debug\Semana_11C#.exe.config
+C:\Users\UPN\Desktop\Semana_11C#\Semana_11C#\bin\Debug\Semana_11C#.exe
+C:\Users\UPN\Desktop\Semana_11C#\Semana_11C#\bin\Debug\Semana_11C#.pdb
+C:\Users\UPN\Desktop\Semana_11C#\Semana_11C#\obj\Debug\Semana_11C#.exe
+C:\Users\UPN\Desktop\Semana_11C#\Semana_11C#\obj\Debug\Semana_11C#.pdb
+C:\Users\UPN\Desktop\Semana_11C#\Semana_11C#\obj\Debug\Semana_11C#.exe.config
+C:\Users\UPN\Desktop\FA\FA_2025-ll-PRACTICA-8450\Semana_11C#\bin\Debug\Semana_11C#.exe.config
+C:\Users\UPN\Desktop\FA\FA_2025-ll-PRACTICA-8450\Semana_11C#\bin\Debug\Semana_11C#.exe
+C:\Users\UPN\Desktop\FA\FA_2025-ll-PRACTICA-8450\Semana_11C#\bin\Debug\Semana_11C#.pdb
+C:\Users\UPN\Desktop\FA\FA_2025-ll-PRACTICA-8450\Semana_11C#\obj\Debug\Semana_11C#.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\FA\FA_2025-ll-PRACTICA-8450\Semana_11C#\obj\Debug\Semana_11C#.exe.config
+C:\Users\UPN\Desktop\FA\FA_2025-ll-PRACTICA-8450\Semana_11C#\obj\Debug\Semana_11C#.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\FA\FA_2025-ll-PRACTICA-8450\Semana_11C#\obj\Debug\Semana_11C#.exe
+C:\Users\UPN\Desktop\FA\FA_2025-ll-PRACTICA-8450\Semana_11C#\obj\Debug\Semana_11C#.pdb
