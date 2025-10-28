@@ -1,0 +1,8 @@
+C:\Users\PC\Desktop\Semana 5\Entregable5\Entregable5\bin\Debug\Entregable5.exe.config
+C:\Users\PC\Desktop\Semana 5\Entregable5\Entregable5\bin\Debug\Entregable5.exe
+C:\Users\PC\Desktop\Semana 5\Entregable5\Entregable5\bin\Debug\Entregable5.pdb
+C:\Users\PC\Desktop\Semana 5\Entregable5\Entregable5\obj\Debug\Entregable5.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Semana 5\Entregable5\Entregable5\obj\Debug\Entregable5.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Semana 5\Entregable5\Entregable5\obj\Debug\Entregable5.exe
+C:\Users\PC\Desktop\Semana 5\Entregable5\Entregable5\obj\Debug\Entregable5.pdb
+C:\Users\PC\Desktop\Semana 5\Entregable5\Entregable5\obj\Debug\Entregable5.exe.config

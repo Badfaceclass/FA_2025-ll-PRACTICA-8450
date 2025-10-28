@@ -1,0 +1,13 @@
+C:\Users\PC\Desktop\T2\T2\Pruebas menu\bin\Debug\Pruebas menu.exe.config
+C:\Users\PC\Desktop\T2\T2\Pruebas menu\bin\Debug\Pruebas menu.exe
+C:\Users\PC\Desktop\T2\T2\Pruebas menu\bin\Debug\Pruebas menu.pdb
+C:\Users\PC\Desktop\T2\T2\Pruebas menu\obj\Debug\Pruebas menu.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\T2\T2\Pruebas menu\obj\Debug\Pruebas menu.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\T2\T2\Pruebas menu\obj\Debug\Pruebas menu.exe
+C:\Users\PC\Desktop\T2\T2\Pruebas menu\obj\Debug\Pruebas menu.pdb
+C:\Users\PC\Desktop\T2\T2\Pruebas menu\obj\Debug\Pruebas menu.exe.config
+C:\Users\PC\Desktop\T2\T2\Pruebas menu\bin\Debug\Biblioteca1.dll
+C:\Users\PC\Desktop\T2\T2\Pruebas menu\bin\Debug\Biblioteca1.pdb
+C:\Users\PC\Desktop\T2\T2\Pruebas menu\obj\Debug\Pruebas .F0C7792D.Up2Date
+C:\Users\PC\Desktop\T2\T2\Pruebas menu\bin\Debug\Biblioteca2.dll
+C:\Users\PC\Desktop\T2\T2\Pruebas menu\bin\Debug\Biblioteca2.pdb

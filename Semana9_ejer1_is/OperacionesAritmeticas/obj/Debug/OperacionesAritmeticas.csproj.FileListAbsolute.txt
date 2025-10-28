@@ -1,6 +1,0 @@
-C:\Users\PC\Desktop\FA\FA_2025-ll-PRACTICA-8450\Semana9_ejer1_is\OperacionesAritmeticas\bin\Debug\OperacionesAritmeticas.dll
-C:\Users\PC\Desktop\FA\FA_2025-ll-PRACTICA-8450\Semana9_ejer1_is\OperacionesAritmeticas\bin\Debug\OperacionesAritmeticas.pdb
-C:\Users\PC\Desktop\FA\FA_2025-ll-PRACTICA-8450\Semana9_ejer1_is\OperacionesAritmeticas\obj\Debug\OperacionesAritmeticas.csproj.AssemblyReference.cache
-C:\Users\PC\Desktop\FA\FA_2025-ll-PRACTICA-8450\Semana9_ejer1_is\OperacionesAritmeticas\obj\Debug\OperacionesAritmeticas.csproj.CoreCompileInputs.cache
-C:\Users\PC\Desktop\FA\FA_2025-ll-PRACTICA-8450\Semana9_ejer1_is\OperacionesAritmeticas\obj\Debug\OperacionesAritmeticas.dll
-C:\Users\PC\Desktop\FA\FA_2025-ll-PRACTICA-8450\Semana9_ejer1_is\OperacionesAritmeticas\obj\Debug\OperacionesAritmeticas.pdb

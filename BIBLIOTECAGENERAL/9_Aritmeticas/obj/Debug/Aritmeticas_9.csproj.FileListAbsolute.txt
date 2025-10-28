@@ -1,0 +1,6 @@
+C:\Users\PC\Desktop\FUNDAMENTO DE ALGORITMOS\FA_2025-ll-PRACTICA-8450\BIBLIOTECAGENERAL\9_Aritmeticas\bin\Debug\9_Aritmeticas.dll
+C:\Users\PC\Desktop\FUNDAMENTO DE ALGORITMOS\FA_2025-ll-PRACTICA-8450\BIBLIOTECAGENERAL\9_Aritmeticas\bin\Debug\9_Aritmeticas.pdb
+C:\Users\PC\Desktop\FUNDAMENTO DE ALGORITMOS\FA_2025-ll-PRACTICA-8450\BIBLIOTECAGENERAL\9_Aritmeticas\obj\Debug\Aritmeticas_9.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\FUNDAMENTO DE ALGORITMOS\FA_2025-ll-PRACTICA-8450\BIBLIOTECAGENERAL\9_Aritmeticas\obj\Debug\Aritmeticas_9.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\FUNDAMENTO DE ALGORITMOS\FA_2025-ll-PRACTICA-8450\BIBLIOTECAGENERAL\9_Aritmeticas\obj\Debug\9_Aritmeticas.dll
+C:\Users\PC\Desktop\FUNDAMENTO DE ALGORITMOS\FA_2025-ll-PRACTICA-8450\BIBLIOTECAGENERAL\9_Aritmeticas\obj\Debug\9_Aritmeticas.pdb

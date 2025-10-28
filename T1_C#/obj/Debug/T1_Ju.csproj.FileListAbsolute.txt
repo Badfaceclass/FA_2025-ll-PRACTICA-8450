@@ -1,0 +1,16 @@
+C:\Users\PC\Downloads\T1J\T1_Ju\T1_Ju\bin\Debug\T1_Ju.exe.config
+C:\Users\PC\Downloads\T1J\T1_Ju\T1_Ju\bin\Debug\T1_Ju.exe
+C:\Users\PC\Downloads\T1J\T1_Ju\T1_Ju\bin\Debug\T1_Ju.pdb
+C:\Users\PC\Downloads\T1J\T1_Ju\T1_Ju\obj\Debug\T1_Ju.csproj.AssemblyReference.cache
+C:\Users\PC\Downloads\T1J\T1_Ju\T1_Ju\obj\Debug\T1_Ju.csproj.CoreCompileInputs.cache
+C:\Users\PC\Downloads\T1J\T1_Ju\T1_Ju\obj\Debug\T1_Ju.exe
+C:\Users\PC\Downloads\T1J\T1_Ju\T1_Ju\obj\Debug\T1_Ju.pdb
+C:\Users\PC\Downloads\T1J\T1_Ju\T1_Ju\obj\Debug\T1_Ju.exe.config
+C:\Users\PC\Desktop\T1J\T1_Ju\T1_Ju\bin\Debug\T1_Ju.exe.config
+C:\Users\PC\Desktop\T1J\T1_Ju\T1_Ju\bin\Debug\T1_Ju.exe
+C:\Users\PC\Desktop\T1J\T1_Ju\T1_Ju\bin\Debug\T1_Ju.pdb
+C:\Users\PC\Desktop\T1J\T1_Ju\T1_Ju\obj\Debug\T1_Ju.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\T1J\T1_Ju\T1_Ju\obj\Debug\T1_Ju.exe.config
+C:\Users\PC\Desktop\T1J\T1_Ju\T1_Ju\obj\Debug\T1_Ju.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\T1J\T1_Ju\T1_Ju\obj\Debug\T1_Ju.exe
+C:\Users\PC\Desktop\T1J\T1_Ju\T1_Ju\obj\Debug\T1_Ju.pdb

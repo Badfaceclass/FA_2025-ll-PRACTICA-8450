@@ -1,0 +1,6 @@
+C:\Users\PC\Desktop\FUNDAMENTO DE ALGORITMOS\FA_2025-ll-PRACTICA-8450\BIBLIOTECAGENERAL\ReforzamientoT2\bin\Debug\ReforzamientoT2.dll
+C:\Users\PC\Desktop\FUNDAMENTO DE ALGORITMOS\FA_2025-ll-PRACTICA-8450\BIBLIOTECAGENERAL\ReforzamientoT2\bin\Debug\ReforzamientoT2.pdb
+C:\Users\PC\Desktop\FUNDAMENTO DE ALGORITMOS\FA_2025-ll-PRACTICA-8450\BIBLIOTECAGENERAL\ReforzamientoT2\obj\Debug\ReforzamientoT2.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\FUNDAMENTO DE ALGORITMOS\FA_2025-ll-PRACTICA-8450\BIBLIOTECAGENERAL\ReforzamientoT2\obj\Debug\ReforzamientoT2.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\FUNDAMENTO DE ALGORITMOS\FA_2025-ll-PRACTICA-8450\BIBLIOTECAGENERAL\ReforzamientoT2\obj\Debug\ReforzamientoT2.dll
+C:\Users\PC\Desktop\FUNDAMENTO DE ALGORITMOS\FA_2025-ll-PRACTICA-8450\BIBLIOTECAGENERAL\ReforzamientoT2\obj\Debug\ReforzamientoT2.pdb

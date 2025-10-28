@@ -1,0 +1,13 @@
+C:\Users\PC\Desktop\FUNDAMENTO DE ALGORITMOS\FA_2025-ll-PRACTICA-8450\T2_MenuV1\bin\Debug\T2-Menú.exe.config
+C:\Users\PC\Desktop\FUNDAMENTO DE ALGORITMOS\FA_2025-ll-PRACTICA-8450\T2_MenuV1\bin\Debug\T2-Menú.exe
+C:\Users\PC\Desktop\FUNDAMENTO DE ALGORITMOS\FA_2025-ll-PRACTICA-8450\T2_MenuV1\bin\Debug\T2-Menú.pdb
+C:\Users\PC\Desktop\FUNDAMENTO DE ALGORITMOS\FA_2025-ll-PRACTICA-8450\T2_MenuV1\bin\Debug\T2_Carga.dll
+C:\Users\PC\Desktop\FUNDAMENTO DE ALGORITMOS\FA_2025-ll-PRACTICA-8450\T2_MenuV1\bin\Debug\T2_Equipaje_Encomienda.dll
+C:\Users\PC\Desktop\FUNDAMENTO DE ALGORITMOS\FA_2025-ll-PRACTICA-8450\T2_MenuV1\bin\Debug\T2_Carga.pdb
+C:\Users\PC\Desktop\FUNDAMENTO DE ALGORITMOS\FA_2025-ll-PRACTICA-8450\T2_MenuV1\bin\Debug\T2_Equipaje_Encomienda.pdb
+C:\Users\PC\Desktop\FUNDAMENTO DE ALGORITMOS\FA_2025-ll-PRACTICA-8450\T2_MenuV1\obj\Debug\T2_MenuV1.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\FUNDAMENTO DE ALGORITMOS\FA_2025-ll-PRACTICA-8450\T2_MenuV1\obj\Debug\T2-Menú.exe.config
+C:\Users\PC\Desktop\FUNDAMENTO DE ALGORITMOS\FA_2025-ll-PRACTICA-8450\T2_MenuV1\obj\Debug\T2_MenuV1.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\FUNDAMENTO DE ALGORITMOS\FA_2025-ll-PRACTICA-8450\T2_MenuV1\obj\Debug\T2_MenuV1.csproj.Up2Date
+C:\Users\PC\Desktop\FUNDAMENTO DE ALGORITMOS\FA_2025-ll-PRACTICA-8450\T2_MenuV1\obj\Debug\T2-Menú.exe
+C:\Users\PC\Desktop\FUNDAMENTO DE ALGORITMOS\FA_2025-ll-PRACTICA-8450\T2_MenuV1\obj\Debug\T2-Menú.pdb
